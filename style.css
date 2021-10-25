@@ -1089,7 +1089,7 @@ a {
 	margin-right: 0;
 }
 .footer-menu .ow-navigation .nav.navbar-nav > li > a {
-	padding: 5px 5px;
+	padding: 0px 0px;
 	color: #a4b0b6;
 	font-size: 12px;
 	letter-spacing: 0.36px;
@@ -1110,6 +1110,7 @@ a {
 							/* [ Responsive ] */
 /* ========================================================================== */
 /* ========================================================================== */
+
 
 /* - min-width: 1200 */
 @media (min-width: 1200px) {
@@ -1401,3 +1402,7 @@ a {
 	margin: 10px;
 }
 
+.ow-navigation .nav.navbar-nav > li > a {
+	margin: 20px 0px;
+	padding: 5px;
+}
