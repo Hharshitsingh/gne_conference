@@ -145,7 +145,7 @@
 	position: relative;
 	z-index: 2;
 	margin: 0 0 24px;
-	font-size: 37px;
+	font-size: 34px;
 	letter-spacing: 1.1px;
 	line-height: 32px;
 	font-weight: 700;
@@ -154,7 +154,7 @@
 	letter-spacing: 4px;
 }
 .slider-content-box .slider-sub-title {
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 700;
 	padding-bottom: 30px;
 
@@ -3394,13 +3394,13 @@
 	.slider-content-box .slider-title {
 		font-size: 26px;
 		margin: 0;
-		padding-bottom: 28px;
+		/* padding-bottom: 28px; */
 		line-height: 22px;
 	}
 
 	.slider-content-box .slider-sub-title {
-		font-size: 17px;
-		display: none;
+		font-size: 16px;
+		/* display: none; */
 	}
 
 	.slider-content-box span {
@@ -3857,7 +3857,7 @@
 		padding: 22px;
 	}
 	.slider-content-box .slider-title {
-		font-size: 16px;
+		font-size: 14px;
 	}
 	.slider-content-box .slider-author {
 		margin-bottom: 10px;
@@ -4160,7 +4160,7 @@
 @media (max-width: 639px) {
 	/* -- Slider Section */
 	.slider-content-box {
-		padding: 15px;
+		padding: 10px;
 	}
 	.slider-content-box::after {
 		left: 5px;
@@ -4170,6 +4170,7 @@
 	}
 	.slider-content-box .slider-title {
 		padding-right: 0;
+		padding-bottom: 0px ;
 	}
 	.slider-content-box .slider-author {
 		margin-bottom: 10px;
@@ -4195,7 +4196,7 @@
 		bottom: 15px;
 	}
 	.slider-section .carousel-inner > .item > img	{
-		height: 260px;
+		height: 300px;
 	}
 	
 	/* -- Howwecan2 */
@@ -4421,6 +4422,11 @@
 	.slider-section .container .col-xs-9 {
 		width: 100%;
 	}
+
+ 	.slider-content-box .slider-title{
+		padding-bottom: 15px ;
+	}
+
 	.slider-sub-title {
 		display: none;
 	}
@@ -4774,7 +4780,7 @@
 		top: 2px;
 	}
 	.slider-content-box .slider-title::after {
-		width: 25px;
+		width: 35px;
 	}
 
 	.slider-content-box .slider-author {

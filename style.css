@@ -1337,13 +1337,18 @@ a {
 /* Khushboo's Styling */
 
 .card {
-	border: 0;
-	border-radius: 16px;
-	background-color: #fafafa!important;
-	box-shadow: 0px 0px 10px 5px rgb(197 134 134 / 45%);
+	/* border: 0; */
+	/* border-radius: 16px; */
+	/* background-color: #fafafa!important; */
+	/* box-shadow: 0px 0px 13px 5px rgb(186 138 138 / 38%); */
 	color: #333!important;
 	padding:10px 19px;
-	margin-bottom: 15px ;
+	margin-bottom: 45px ;
+	border: 1px solid #ff000075;
+	border-radius: 18px;
+	/* margin: 10px 8px; */
+	box-shadow: rgb(164 158 158 / 44%) 0px 0px 13px 4px;
+	background: #c3baba33;
 }
 
 .section {
@@ -1403,7 +1408,7 @@ a {
 }
 
 .ow-navigation .nav.navbar-nav > li > a {
-	margin: 20px 0px;
+	margin: 10px 0px;
 	padding: 5px;
 }
 
@@ -1416,10 +1421,11 @@ a {
 }
 
 #advisory-container div div{
-	border: 1px solid red;
+	border: 1px solid #ff000075;
 	border-radius: 18px;
 	margin: 10px 8px;
-	box-shadow: 0px 0px 11px #776464;
+	box-shadow: 0px 0px 7px #776464;
+	background: #80808033;
 
 }
 
