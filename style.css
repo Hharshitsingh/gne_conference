@@ -1217,6 +1217,9 @@ a {
 
 /* - max-width: 767 */
 @media (max-width: 767px) {	
+	#advisory-container div {
+		margin: 20px 0px;
+	}
 	/* - Top Header */
 	.top-header {
 		padding-top: 0;
@@ -1257,6 +1260,10 @@ a {
 
 /* - max-width: 479 */
 @media (max-width: 479px) {
+
+	#advisory-container div {
+		margin: 20px 0px;
+	}
 	/* - Top Header */
 	.top-header .col-xs-6 {
 		width: 100%;
@@ -1417,6 +1424,10 @@ a {
 #advisory-container div{
 	text-align: center;
 	/* border: 1px solid black; */
+
+}
+
+#advisory-container div{
 
 }
 
