@@ -1264,6 +1264,11 @@ a {
 	#advisory-container div {
 		margin: 20px 0px;
 	}
+
+	.register, .social{
+		display: none;
+
+	}
 	/* - Top Header */
 	.top-header .col-xs-6 {
 		width: 100%;
