@@ -4423,14 +4423,16 @@
 	.slider-section .container .col-xs-9 {
 		width: 100%;
 	}
+	.slider-content-box .slider-sub-title{
+		padding-bottom: 0px;
+		line-height: 1.5;
+	}
 
  	.slider-content-box .slider-title{
-		padding-bottom: 15px ;
+		/* padding-bottom: 15px ; */
 	}
 
-	.slider-sub-title {
-		display: none;
-	}
+	
 	
 	/* -- Howwecan Section */
 	.howwecan-section .section-header {
@@ -4761,7 +4763,8 @@
 		float: none;
 	}
  .slider-sub-title {
-		display: none;
+		/* display: none; */
+		font-size: 10px !important;
 	}
 }
 
