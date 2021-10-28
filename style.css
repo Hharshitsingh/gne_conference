@@ -1458,3 +1458,8 @@ a {
 	border:  2px solid rgb(247, 145, 145);
 
 }
+
+.advisory-name>p{
+	text-align: left;
+	margin-left: 8%;
+}
