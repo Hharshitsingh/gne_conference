@@ -1,5 +1,5 @@
 # Copyright - GNDEC
-This Website is Developed As per the instructions and material given by Er. Manpreet Kaur Mand By Gursidak Singh(B.Tech CSE BATCH-2018-2022 - 1805960) And Harshit Singh(B.Tech CSE BATCH-2019-2023)
+This Website is Developed As per the instructions and material given by Er. Manpreet Kaur Mand By Gursidak Singh(B.Tech CSE BATCH-2018-2022 - 1805960) And Harshit Singh(B.Tech ECE BATCH-2019-2023 -1917031)
 
 ## Technolgies Used
 - HTML
